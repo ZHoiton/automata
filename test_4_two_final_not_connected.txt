@@ -1,0 +1,25 @@
+
+alphabet: a,b,c,d
+states: 1,2,3,4,5
+final: 4,5
+ 
+transitions: 
+
+1,a --> 2 
+2,b --> 3
+2,a --> 5
+3,c --> 4 
+3,a --> 4 
+3,d --> 5 
+end.
+
+#ez_katka
+
+dfa:n 
+finite:y
+words: 
+bbbbbbbbbb,y 
+a,y 
+ab,n 
+baa,n
+end.

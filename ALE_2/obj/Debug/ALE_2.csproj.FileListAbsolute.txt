@@ -1,0 +1,28 @@
+C:\Users\k_vol\OneDrive\Работен плот\Logic-Proposition-Calculator\ALE_2\ALE_2\bin\Debug\ALE_2.exe.config
+C:\Users\k_vol\OneDrive\Работен плот\ALE_2\ALE_2\bin\Debug\ALE_2.exe.config
+C:\Users\k_vol\OneDrive\Работен плот\ALE_2\ALE_2\bin\Debug\ALE_2.exe
+C:\Users\k_vol\OneDrive\Работен плот\ALE_2\ALE_2\bin\Debug\ALE_2.pdb
+C:\Users\k_vol\OneDrive\Работен плот\ALE_2\ALE_2\obj\Debug\ALE_2.csprojResolveAssemblyReference.cache
+C:\Users\k_vol\OneDrive\Работен плот\ALE_2\ALE_2\obj\Debug\ALE_2.Form1.resources
+C:\Users\k_vol\OneDrive\Работен плот\ALE_2\ALE_2\obj\Debug\ALE_2.Properties.Resources.resources
+C:\Users\k_vol\OneDrive\Работен плот\ALE_2\ALE_2\obj\Debug\ALE_2.csproj.GenerateResource.Cache
+C:\Users\k_vol\OneDrive\Работен плот\ALE_2\ALE_2\obj\Debug\ALE_2.exe
+C:\Users\k_vol\OneDrive\Работен плот\ALE_2\ALE_2\obj\Debug\ALE_2.pdb
+C:\ALE_2\ALE_2\bin\Debug\ALE_2.exe.config
+C:\ALE_2\ALE_2\obj\Debug\ALE_2.exe
+C:\ALE_2\ALE_2\obj\Debug\ALE_2.pdb
+C:\ALE_2\ALE_2\bin\Debug\ALE_2.exe
+C:\ALE_2\ALE_2\bin\Debug\ALE_2.pdb
+C:\ALE_2\ALE_2\obj\Debug\ALE_2.csprojResolveAssemblyReference.cache
+C:\ALE_2\ALE_2\obj\Debug\ALE_2.Form1.resources
+C:\ALE_2\ALE_2\obj\Debug\ALE_2.Properties.Resources.resources
+C:\ALE_2\ALE_2\obj\Debug\ALE_2.csproj.GenerateResource.Cache
+C:\projects\ALE_2\ALE_2\bin\Debug\ALE_2.exe.config
+C:\projects\ALE_2\ALE_2\obj\Debug\ALE_2.exe
+C:\projects\ALE_2\ALE_2\obj\Debug\ALE_2.pdb
+C:\projects\ALE_2\ALE_2\bin\Debug\ALE_2.exe
+C:\projects\ALE_2\ALE_2\bin\Debug\ALE_2.pdb
+C:\projects\ALE_2\ALE_2\obj\Debug\ALE_2.csprojResolveAssemblyReference.cache
+C:\projects\ALE_2\ALE_2\obj\Debug\ALE_2.Form1.resources
+C:\projects\ALE_2\ALE_2\obj\Debug\ALE_2.Properties.Resources.resources
+C:\projects\ALE_2\ALE_2\obj\Debug\ALE_2.csproj.GenerateResource.Cache

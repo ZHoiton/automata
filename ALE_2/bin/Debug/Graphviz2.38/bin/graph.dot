@@ -1,0 +1,30 @@
+digraph myAutomaton {
+  rankdir=LR;
+"" [shape=none]
+"1" [shape=circle]
+"2" [shape=doublecircle]
+"3" [shape=circle]
+"4" [shape=circle]
+"5" [shape=circle]
+"6" [shape=circle]
+"7" [shape=circle]
+"8" [shape=circle]
+"9" [shape=circle]
+
+"" -> "1"
+"1" -> "3"[label=a]
+"1" -> "2"[label=c]
+"3" -> "5"[label=_]
+"3" -> "4"[label=q]
+"3" -> "8"[label=i]
+"3" -> "2"[label=m]
+"4" -> "3"[label=_]
+"4" -> "2"[label=h]
+"5" -> "7"[label=f]
+"6" -> "4"[label=_]
+"6" -> "5"[label=_]
+"7" -> "6"[label=b]
+"8" -> "9"[label=l]
+"8" -> "2"[label=z]
+"9" -> "2"[label=x]
+}

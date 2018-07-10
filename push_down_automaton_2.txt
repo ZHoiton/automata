@@ -1,0 +1,26 @@
+alphabet: ab
+stack: 
+states: 0,1,2,3
+final: 3
+transitions:
+0,a [_,1] --> 1
+1,a [1,11]--> 1
+1,b [1,_] --> 2
+2,b [1,_]--> 2
+2,_ [_,_] --> 3
+end.
+
+dfa: n
+finite: n
+
+words:
+abb,y
+aabb,y
+ab,y
+,y
+bbb,y
+aaabbb,n
+aabbaa,n
+bba,n
+aaaabbb,n
+end.

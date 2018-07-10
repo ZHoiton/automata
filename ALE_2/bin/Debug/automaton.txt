@@ -1,0 +1,22 @@
+#ez_katka
+alphabet: a,b,c
+#ez_katka
+states:0,1,2,3,4,5
+#ez_katka
+
+final: 2,4,5
+#ez_katka
+
+transitions:
+0,a --> 1
+0,a --> 3
+0,b --> 5
+1,c --> 1
+1,b --> 2
+3,b --> 3
+3,c --> 4
+5,c --> 5
+end.
+
+#zob
+dfa:n

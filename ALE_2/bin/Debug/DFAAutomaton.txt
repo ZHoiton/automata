@@ -1,0 +1,29 @@
+#ez_katka
+alphabet: a,b,_
+#ez_katka
+states:0,1,_,2,3
+#ez_katka
+
+final: 3
+#ez_katka
+
+transitions:
+0,a --> 1
+0,b --> _
+0,_ --> _
+1,a --> 1
+1,b --> 2
+1,_ --> _
+_,a --> _
+_,b --> _
+_,_ --> _
+2,a --> _
+2,b --> 2
+2,_ --> 3
+3,a --> _
+3,b --> _
+3,_ --> _
+end.
+
+#zob
+dfa:n

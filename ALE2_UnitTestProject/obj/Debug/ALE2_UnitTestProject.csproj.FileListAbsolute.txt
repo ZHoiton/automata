@@ -1,0 +1,7 @@
+C:\projects\ALE_2\ALE2_UnitTestProject\bin\Debug\ALE2_UnitTestProject.dll
+C:\projects\ALE_2\ALE2_UnitTestProject\bin\Debug\ALE2_UnitTestProject.pdb
+C:\projects\ALE_2\ALE2_UnitTestProject\bin\Debug\ALE_2.exe
+C:\projects\ALE_2\ALE2_UnitTestProject\bin\Debug\ALE_2.pdb
+C:\projects\ALE_2\ALE2_UnitTestProject\obj\Debug\ALE2_UnitTestProject.csprojResolveAssemblyReference.cache
+C:\projects\ALE_2\ALE2_UnitTestProject\obj\Debug\ALE2_UnitTestProject.dll
+C:\projects\ALE_2\ALE2_UnitTestProject\obj\Debug\ALE2_UnitTestProject.pdb

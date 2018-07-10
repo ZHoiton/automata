@@ -1,0 +1,25 @@
+#ez_katka
+alphabet: a,c,f,q,i,m,h,b,l,z,x
+#ez_katka
+states:1,2,3,4,5,6,7
+#ez_katka
+
+final: 2
+#ez_katka
+
+transitions:
+1,a --> 3
+1,c --> 2
+3,f --> 5
+3,q --> 4
+3,i --> 6
+3,m --> 2
+4,h --> 2
+5,b --> 4
+6,l --> 7
+6,z --> 2
+7,x --> 2
+end.
+
+#zob
+dfa:n

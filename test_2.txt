@@ -1,0 +1,23 @@
+# automaton for regular expression (a|b)* 
+
+alphabet: a,b
+states: Z,A,B 
+final: A,B
+ 
+transitions: 
+Z,a --> A 
+Z,b --> B 
+Z,_ --> B 
+B,b --> B 
+end.
+
+#ez_katka
+
+dfa:n 
+finite:n 
+words: 
+bbbbbbbbbb,y 
+a,y 
+ab,n 
+baa,n
+end.

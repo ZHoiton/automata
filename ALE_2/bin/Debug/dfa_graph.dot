@@ -1,0 +1,22 @@
+digraph myAutomaton {
+  rankdir=LR;
+"" [shape=none]
+"Z" [shape=circle]
+"A" [shape=doublecircle]
+"B" [shape=doublecircle]
+"_" [shape=circle]
+
+"" -> "Z"
+"Z" -> "A"[label="a"]
+"Z" -> "B"[label="b"]
+"Z" -> "B"[label="_"]
+"A" -> "_"[label="a"]
+"A" -> "_"[label="b"]
+"A" -> "_"[label="_"]
+"B" -> "_"[label="a"]
+"B" -> "B"[label="b"]
+"B" -> "_"[label="_"]
+"_" -> "_"[label="a"]
+"_" -> "_"[label="b"]
+"_" -> "_"[label="_"]
+}

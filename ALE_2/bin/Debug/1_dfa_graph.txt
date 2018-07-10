@@ -1,0 +1,32 @@
+#ez_katka
+alphabet: a,b,_
+#ez_katka
+states:Z,A,B,_
+#ez_katka
+
+final: A,B
+#ez_katka
+
+transitions:
+Z,a --> A
+Z,b --> B
+Z,_ --> B
+A,a --> _
+A,b --> _
+A,_ --> _
+B,a --> _
+B,b --> B
+B,_ --> _
+_,a --> _
+_,b --> _
+_,_ --> _
+end.
+
+#zob
+words:
+bbbbbbbbbb,y
+a,y
+ab,n
+baa,n
+end.
+dfa:n
